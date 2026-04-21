@@ -1,3 +1,7 @@
+> [!CAUTION]
+> **This repository is no longer actively maintained or supported.**
+> Thank you for your interest in this project.
+
 # Alexa Auto SDK
 
 ## About
